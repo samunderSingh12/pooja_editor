@@ -113,6 +113,8 @@ def register(editor_state, provided_core_tools):
     else:
         print("Error: ShowPos plugin could not find 'tell_core_about_key'.", file=sys.stderr)
 
+```
+
 Just save this code as plugins/plugin_showpos.py, and the next time you run simple_editor.py, pressing Ctrl+G will show the cursor position in the status bar!
 Contributing
 This is a basic project. Feel free to fork it, improve it, add plugins, and submit pull requests! Ideas:
