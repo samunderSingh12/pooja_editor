@@ -115,11 +115,15 @@ def register(editor_state, provided_core_tools):
 
 ```
 
-Just save this code as plugins/plugin_showpos.py, and the next time you run simple_editor.py, pressing Ctrl+G will show the cursor position in the status bar!
+*Just save this code as plugins/plugin_showpos.py, and the next time you run simple_editor.py, pressing Ctrl+G will show the cursor position in the status bar!
 Contributing
-This is a basic project. Feel free to fork it, improve it, add plugins, and submit pull requests! Ideas:
+
+*This is a basic project. Feel free to fork it, improve it, add plugins, and submit pull requests! Ideas:
 Search/Replace plugin
-Syntax highlighting (this is hard!)
-Copy/Paste plugin
-Line numbering display
-More robust error handling
+
+*Syntax highlighting (this is hard!)
+*Copy/Paste plugin
+*Line numbering display
+*More robust error handling
+
+enjoy
